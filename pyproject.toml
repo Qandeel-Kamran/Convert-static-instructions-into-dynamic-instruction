@@ -1,0 +1,11 @@
+[project]
+name = "assignment-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=0.27.10",
+    "openai-agent>=0.1.0",
+    "python-decouple>=3.8",
+]

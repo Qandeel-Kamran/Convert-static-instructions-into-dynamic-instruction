@@ -1,1 +1,0 @@
-# Convert-static-instructions-into-dynamic-instruction
